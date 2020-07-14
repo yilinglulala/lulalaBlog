@@ -23,7 +23,7 @@
         name:'Orange',
         job:'Programmer',
         desc:'Go big or go home',
-        img:'/Wiki1001Pro/img/users/orange.jpg',
+        img:'/lulalaBlog/img/users/orange.jpg',
         link:'https://orangexc.xyz/',
     },  {
         name:'Bang',
@@ -34,7 +34,7 @@
     },  {
         name:'Finen',
         job:'Programmer',
-        img:'/Wiki1001Pro/img/users/finen.png',
+        img:'/lulalaBlog/img/users/finen.png',
         desc:'Stay Hungry! Stay Foolish!',
         link:'https://www.finen.top/',
     },{
@@ -53,6 +53,6 @@
 - **申请格式**
     - 昵称：Mulander
     - 博客站名：Wiki 1001
-    - 博客链接：https://mulander-j.github.io/Wiki1001Pro/
+    - 博客链接：https://mulander-j.github.io/lulalaBlog/
     - 博客Logo：https://somewhere/favicon.png
     - 简介：Meet 1000 Books & Unit Them Into 1 Wiki

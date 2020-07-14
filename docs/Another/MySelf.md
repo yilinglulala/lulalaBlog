@@ -22,7 +22,7 @@ hideFooter: true
 
 ## &Blog ##
 
-| [Wiki1001](https://mulander-j.github.io/Wiki1001Pro/) |[Segment](https://segmentfault.com/u/mulander) | [GitHub](https://github.com/Mulander-J)
+| [Wiki1001](https://mulander-j.github.io/lulalaBlog/) |[Segment](https://segmentfault.com/u/mulander) | [GitHub](https://github.com/Mulander-J)
 | ------ | ------ | ------ 
  
 ## &Region ##
